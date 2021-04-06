@@ -12,10 +12,9 @@
 	   author="Benson Chien">
 
 
-# Oxalis Tetraphylla
-Visual Essay on Oxalis Tetraphylla
+## Oxalis Tetraphylla
 
-## Iron Cross Not Four Leaf Clover
+# Visual Essay on Oxalis Tetraphylla
 Exceptionally rewarding, Oxalis tetraphylla "iron Cross" is a bulbous perennial forming a lush mound of rich green leaves composed of 4 heart-shaped leaflets, each with a dark purplish blotch at its base. 
 <param eid="Q66117">
 <param ve-map center="18.7475, -99.070278" zoom="12" show-labels>
