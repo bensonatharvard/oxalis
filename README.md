@@ -1,5 +1,5 @@
 <param ve-config
-	   title="Agave: A Plant with an Intoxicating History"
+	   title="Oxalis Tetraphylla: Wood Sorrel"
 	   source-image="https://iiif.wellcomecollection.org/image/V0044120EL/full/960%2C/0/default.jpg"
 	   banner="https://upload.wikimedia.org/wikipedia/commons/7/73/Gluecksklee.jpg"
 	   eid="Q104699604"
