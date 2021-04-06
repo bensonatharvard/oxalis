@@ -29,5 +29,5 @@ Easy to grow and not invasive, this Good Luck Plant makes a <span data-click-ima
 First pass at <span data-click-image-zoomto="965,2375,899,1172">soil characters</span> of oxalis tetraphylla, no plant yet, just soil.
 <param ve-image url="https://github.com/bensonatharvard/oxalis/blob/main/soil_character_test.jpg?raw=true">
 
-Let's try using storiiies in order to click through soil characters!
+Let's try using storiiies in order to click through soil characters! Should click through a series of different characters from garlon, phosphorus, calcium, oxalic acid, calcium oxalate, zinc, cadmium, lead and so forth, spewing out from the background. With the flower on top.
 <param ve-storiiies id="ea21i">
