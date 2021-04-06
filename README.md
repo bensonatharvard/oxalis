@@ -23,5 +23,5 @@ Exceptionally rewarding, Oxalis tetraphylla "iron Cross" is a bulbous perennial 
 The burgundy marking across the center of the leaves is reminiscent of a cross. During the day the leaves open out to receive sunlight but at night they retract and fold up like small umbrellas, adding interest to the plant. From early summer until frost, the handsome foliage is topped by sprays of trumpet-shaped, bright pink flowers. 
 <param ve-image manifest="https://iiif.wellcomecollection.org/image/V0044120EL/full/960%2C/0/default.jpg">
 
-Easy to grow and not invasive, this <span data-click-map-flyto=Good Luck Plant makes a colorful addition to rock gardens and offers a long season of interest when grown in containers. -- excerpt from gardenia.net
+Easy to grow and not invasive, this <span data-click-map-flyto=Good Luck Plant makes a <span data-click-map-flyto="135,210,174,227">colorful</span> addition to rock gardens and offers a long season of interest when grown in containers. -- excerpt from gardenia.net
 <param ve-image title="oxalis drawing" url="https://github.com/bensonatharvard/oxalis/blob/main/190031_oxalis.jpg?raw=true">
