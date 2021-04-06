@@ -8,7 +8,7 @@
 	   num-maps="3"
 	   num-images="8"
 	   num-specimens="0"
-	   num-primary-sources="3"
+	   
 	   author="Benson Chien">
 
 
