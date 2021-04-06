@@ -20,6 +20,9 @@ Exceptionally rewarding, Oxalis tetraphylla "iron Cross" is a bulbous perennial 
 <param eid="Q66117">
 <param ve-map center="18.7475, -99.070278" zoom="12" show-labels>
 
+Harvard Herbarium Sheet
+<param ve-image url="https://s3.amazonaws.com/huhwebimages/945132826A4A4C4/type/full/43707.jpg">
+
 The burgundy marking across the center of the leaves is <span data-click-image-zoomto="396,54,224,292">reminiscent of a cross</span>. During the day the leaves open out to receive sunlight but at night they retract and fold up like small umbrellas, adding interest to the plant. From early summer until frost, the handsome foliage is topped by sprays of trumpet-shaped, bright pink flowers. 
 <param ve-image url="https://iiif.wellcomecollection.org/image/V0044120EL/full/960%2C/0/default.jpg">
 
