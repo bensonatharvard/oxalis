@@ -2,8 +2,8 @@
 	   title="Oxalis Tetraphylla: Wood Sorrel"
 	   source-image="https://iiif.wellcomecollection.org/image/V0044120EL/full/960%2C/0/default.jpg"
 	   banner="https://upload.wikimedia.org/wikipedia/commons/7/73/Gluecksklee.jpg"
-	   eid="Q66117
-	   about="Q155874"
+	   eid="Q157378"
+	   about="Q157378"
 	   layout="vtl"
 	   num-maps="3"
 	   num-images="8"
