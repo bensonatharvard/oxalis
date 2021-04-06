@@ -1,4 +1,4 @@
-# oxalis
+# Oxalis Tetraphylla
 Visual Essay on Oxalis Tetraphylla
 
 ## Iron Cross Not Four Leaf Clover
