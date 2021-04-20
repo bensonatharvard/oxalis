@@ -19,7 +19,7 @@ Oxalis tetraphylla is a bulbous perennial wood sorrel native to Mexico. It is re
 <param ve-image url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F21146645%2Foriginal.jpeg%3F1531275437">
 
 
-The leaves are drawn in both open and closed as nyctinasty occurs in oxalis wood sorrels. During nighttime or low lighting, the leaves turn downwards. By turning the leaves downwards, the plant can retain temperature and remove surface water from the foliage. It also directly discourages nighttime herbivory. The circadian rhythmic nastic movement also prevents disruption of photoperiodism by moonlight. Along with the leaves, the flowers also share this same movement. Oxalis also uses nyctinasty to overcome photoinhibition, a decrease in efficiency of photosynthesis when exposed to an overabundance of light.
+
 <param eid="Q66117">
 <param ve-map center="18.7475, -99.070278" zoom="12" show-labels>
 
@@ -41,6 +41,8 @@ A combination of the bulb and the high oxalic acid content of the plant help fen
 The oxalis is considered an undesired and invasive weed by many; therefore, people are constantly trying to eliminate it. Since it is a bulb, trying to pull out the oxalis becomes a fruitless effort, as the stems will come off, but the bulb will stay protected in the soil. Being branded as a weed led many to use garlon as a pesticide for oxalis, but garlon has dubious efficacy and is classified as a tier 1 herbacide, especially dangerous to children who often eat oxalis, a sour treat. Despite being undesired, the oxalis actually provides a lot as a ground cover. It goes dormant in the winter months but keeps the soil together, and the withered leaves and stems enrich the ground with phosphorus.
 
 The third frontier for the oxalis is against the industry. The soil is often poisoned with sewage sludge or run-off from zinc and lead smelters. Fortunately, oxalic acid serves as a chelating agent and is both within the oxalis and excreted by the roots. Oxalic acid can capture a plethora of heavy metals, including zinc, cadmium, and lead. This property brought into the modern context allows the oxalis to be an excellent soil remediator for heavy metals. As a soil remediator, the oxalis acid is also able to bind to calcium. While this typically causes kidney stones in organisms, in calcified soil, it remediates the soil while storing calcium in the bulb for future use. With calcium oxalate stored in the bulb, the oxalis can go dormant in the winter or resprout easily when eaten. 
+
+The leaves are drawn in both open and closed as nyctinasty occurs in oxalis wood sorrels. During nighttime or low lighting, the leaves turn downwards. By turning the leaves downwards, the plant can retain temperature and remove surface water from the foliage. It also directly discourages nighttime herbivory. The circadian rhythmic nastic movement also prevents disruption of photoperiodism by moonlight. Along with the leaves, the flowers also share this same movement. Oxalis also uses nyctinasty to overcome photoinhibition, a decrease in efficiency of photosynthesis when exposed to an overabundance of light.
 
 
 
