@@ -16,6 +16,8 @@
 
 
 Oxalis tetraphylla is a bulbous perennial wood sorrel native to Mexico. It is recognized by its four green heart-shaped leaves containing a purple heart. The purple variations can appear as either band, a filled center, or even reversed from the outside inwards. The oxalis is often mistaken for a clover, which has a distinct rounded leaf instead of heart-shaped. Between late spring and summer, the oxalis will bloom a pinkish reddish flower, known as an ionoxalis scopulorum rose. 
+<param ve-image url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F21146645%2Foriginal.jpeg%3F1531275437">
+
 
 The leaves are drawn in both open and closed as nyctinasty occurs in oxalis wood sorrels. During nighttime or low lighting, the leaves turn downwards. By turning the leaves downwards, the plant can retain temperature and remove surface water from the foliage. It also directly discourages nighttime herbivory. The circadian rhythmic nastic movement also prevents disruption of photoperiodism by moonlight. Along with the leaves, the flowers also share this same movement. Oxalis also uses nyctinasty to overcome photoinhibition, a decrease in efficiency of photosynthesis when exposed to an overabundance of light.
 <param eid="Q66117">
