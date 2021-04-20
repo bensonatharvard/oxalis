@@ -39,6 +39,8 @@ C.G. Pringle collected this sample in the state of <span data-click-image-zoomto
 
 
 The badianus manuscript represents the oxalis tetraphylla without its purple heart. The stems transition from bright red to four green leaves shaped more strongly like a rounded cross. Also, the bulb is rounded with roots sprouting from the base. The Aztec medicinal use in the badianus manuscript is to “bring forth dried-up saliva” to quench thirst. Specifically, it instructs “one who lacks saliva and is inordinately thirsty should swallow some of the liquid, and some should only hold it in their mouth. The oxalis is edible and has a very acidic taste. 
+<param ve-image url="https://github.com/bensonatharvard/oxalis/blob/main/badianus_oxalis.jpg?raw=true">
+
 
 
 Our herbarium sheet represents the oxalis tetraphylla by additionally re-interpreting and illustrating the life that surrounds the oxalis. The plant existing constantly fending off on three fronts--- wildlife, people, and industry. 
