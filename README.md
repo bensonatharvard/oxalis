@@ -44,6 +44,8 @@ The badianus manuscript represents the <span data-click-image-zoomto="1,1,173,17
 
 
 Our herbarium sheet represents the oxalis tetraphylla by additionally re-interpreting and illustrating the life that surrounds the oxalis. The plant existing constantly fending off on three fronts--- wildlife, people, and industry. 
+<param ve-image url="https://github.com/bensonatharvard/oxalis/blob/main/210412_Oxalis_Sheet.jpg?raw=true">
+
 
 A combination of the bulb and the high oxalic acid content of the plant help fend off wildlife quite well. Grazing animals like cows will eat the leaves and stems, but the bulb is safely tucked below, ready to sprout again. In addition, the oxalic acid’s acidic taste and ability to cause kidney stones deters animals from feeding it on it. However, the oxalis must be wary of the gopher as it will dig into the ground to find the corm to eat. The bulb is starchy and rich in oxalic acid. 
 
