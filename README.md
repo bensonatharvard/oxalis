@@ -15,13 +15,13 @@
 # Visual Essay on Oxalis Tetraphylla
 
 
-Oxalis tetraphylla is a bulbous perennial wood sorrel native to Mexico. It is recognized by its four green heart-shaped leaves containing a purple heart. The purple variations can appear as either band, a filled center, or even reversed from the outside inwards. The oxalis is often mistaken for a clover, which has a distinct rounded leaf instead of heart-shaped. Between late spring and summer, the oxalis will bloom a pinkish reddish flower, known as an ionoxalis scopulorum rose. 
-<param ve-image url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F21146645%2Foriginal.jpeg%3F1531275437">
-
-
-
+Oxalis tetraphylla is a bulbous perennial wood sorrel native to Mexico. 
 <param eid="Q66117">
 <param ve-map center="18.7475, -99.070278" zoom="12" show-labels>
+
+It is recognized by its four green heart-shaped leaves containing a purple heart. The purple variations can appear as either band, a filled center, or even reversed from the outside inwards. The oxalis is often mistaken for a clover, which has a distinct rounded leaf instead of heart-shaped. Between late spring and summer, the oxalis will bloom a pinkish reddish flower, known as an ionoxalis scopulorum rose. 
+<param ve-image url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F21146645%2Foriginal.jpeg%3F1531275437">
+
 
 
 This sheet was collected by Cyrus Guernsey Pringle, born in East Charlotte, Vermont. He was a quaker and an adamant pacifist. So much so that even facing the threat of death, he refused to perform military duty in the Civil War. He was personally pardoned by President Lincoln and went on to start his own herbarium Pringle Herbarium. He crossbred three famous types of potatoes the “ruby,” the “snowflake,” and the “alpha.” In 1885, he set out on his botanical conquest of Mexico, where he spent the next 26 years collecting over 100 new varieties, 29 new genera,  and 1,200 new species, including this Oxalis tetraphylla Cav.
