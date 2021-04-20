@@ -19,8 +19,11 @@ Oxalis tetraphylla is a bulbous perennial wood sorrel native to Mexico.
 <param eid="Q66117">
 <param ve-map center="18.7475, -99.070278" zoom="12" show-labels>
 
-It is recognized by its four green heart-shaped leaves containing a purple heart. The purple variations can appear as either band, a filled center, or even reversed from the outside inwards. The oxalis is often mistaken for a clover, which has a distinct rounded leaf instead of heart-shaped. Between late spring and summer, the oxalis will bloom a pinkish reddish flower, known as an ionoxalis scopulorum rose. 
+It is recognized by its four green heart-shaped leaves containing a purple heart. The purple variations can appear as either band, a filled center, or even reversed from the outside inwards. Between late spring and summer, the oxalis will bloom a pinkish reddish flower, known as an ionoxalis scopulorum rose. 
 <param ve-image url="https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F21146645%2Foriginal.jpeg%3F1531275437">
+
+The oxalis is often mistaken for a clover, which has a distinct rounded leaf instead of heart-shaped.
+<param ve-image url="https://images.squarespace-cdn.com/content/v1/57cc1e899f7456813a23abc3/1489686060771-5DAM0JG4K5J7AKTWWQ81/ke17ZwdGBToddI8pDm48kG87Sfbgg29A4BYEDq3OXvgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcf4OxbJOyh_wHUnyc4kQLQ6SBshRGOku7c30Y_IRDNPta8R2IY5BHMaEj1zOWoDTZ/Comparison+of+wood+sorrel+and+clover+leaves+in+the+cocktail+garden+%7C+drinkingwithchickens.com?format=1500w">
 
 
 
