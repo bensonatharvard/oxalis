@@ -1,6 +1,6 @@
 <param ve-config
 	   title="Oxalis Tetraphylla: Wood Sorrel"
-	   source-image="https://iiif.wellcomecollection.org/image/V0044120EL/full/960%2C/0/default.jpg"
+	   source-image="http://www.plantillustrations.org/ILLUSTRATIONS_HD_/190031.jpg"
 	   banner="http://www.plantillustrations.org/ILLUSTRATIONS_HD_/190031.jpg"
 	   eid="Q157378"
 	   about="Q157378"
