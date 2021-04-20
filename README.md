@@ -33,7 +33,7 @@ This sheet was collected by Cyrus Guernsey Pringle, born in East Charlotte, Verm
 
 
 
-C.G. Pringle collected this sample in the state of Morelos, Mexico, on September 11, 1900. It is about 30cm tall and 15cm wide. The sample shows faint marks of the purple heart strip. The bulb collected in this sample has 19 stems shooting off it. The leaves and flowers appear to be pressed downwards, similar to how the plant would occur at night, as the oxalis responds to the onset of darkness with a circadian rhythmic nastic movement.
+C.G. Pringle collected this sample in the state of <span data-click-image-zoomto="57,3725,1136,1141">Morelos, Mexico, on September 11, 1900.</span> It is about 30cm tall and 15cm wide. The sample shows faint marks of the purple heart strip. The bulb collected in this sample has 19 stems shooting off it. The leaves and flowers appear to be pressed downwards, similar to how the plant would occur at night, as the oxalis responds to the onset of darkness with a circadian rhythmic nastic movement.
 <param ve-image url="https://s3.amazonaws.com/huhwebimages/945132826A4A4C4/type/full/43707.jpg">
 
 
