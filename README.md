@@ -64,6 +64,7 @@ The third frontier for the oxalis is against the <span data-click-image-zoomto="
 The leaves are drawn in both open and closed as <span data-click-image-zoomto="804,657,1363,1369">nyctinasty</span> occurs in oxalis wood sorrels. During nighttime or low lighting, the leaves turn downwards. By turning the leaves downwards, the plant can retain temperature and remove surface water from the foliage. It also directly discourages nighttime herbivory. The circadian rhythmic nastic movement also prevents disruption of photoperiodism by moonlight. Along with the leaves, the flowers also share this same movement. Oxalis also uses nyctinasty to overcome photoinhibition, a decrease in efficiency of photosynthesis when exposed to an overabundance of light.
 <param ve-image url="https://github.com/bensonatharvard/oxalis/blob/main/210419_oxalis_herbarium_sheet.jpg?raw=true">
 
+The high oxalic acid content is a distinct feature of the oxalis. Oxalic acid has been suggested to before formed in the plant during photorespiration, oxidizing the glycolate/glyoxylate. Oxalic acid is able to react with cations creating different types of oxalates. In industry, it is widely used as a bleaching and restoration of wood. The oxalate may make up 3-10% of the entire plant mass. The presence of oxalic acids contributes directly to the way oxalis reacts to forces around. 
 
 
 
