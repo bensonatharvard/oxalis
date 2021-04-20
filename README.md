@@ -15,7 +15,7 @@
 # Visual Essay on Oxalis Tetraphylla
 
 
-Oxalis tetraphylla is a bulbous perennial wood sorrel native to Mexico. 
+Oxalis tetraphylla is a bulbous perennial wood sorrel native to Mexico. It is commonly referred to as an iron cross, or four-leaved pink-sorrel.
 <param eid="Q66117">
 <param ve-map center="18.7475, -99.070278" zoom="12" show-labels>
 
