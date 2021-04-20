@@ -28,6 +28,8 @@ The oxalis is often mistaken for a clover, which has a distinct rounded leaf ins
 
 
 This sheet was collected by Cyrus Guernsey Pringle, born in East Charlotte, Vermont. He was a quaker and an adamant pacifist. So much so that even facing the threat of death, he refused to perform military duty in the Civil War. He was personally pardoned by President Lincoln and went on to start his own herbarium Pringle Herbarium. He crossbred three famous types of potatoes the “ruby,” the “snowflake,” and the “alpha.” In 1885, he set out on his botanical conquest of Mexico, where he spent the next 26 years collecting over 100 new varieties, 29 new genera,  and 1,200 new species, including this Oxalis tetraphylla Cav.
+<param ve-image url="https://github.com/bensonatharvard/oxalis/blob/56b90e5279a8701af403657eb6f60cde14ab1d37/CGPringle.jpg">
+
 
 
 C.G. Pringle collected this sample in the state of Morelos, Mexico, on September 11, 1900. It is about 30cm tall and 15cm wide. The sample shows faint marks of the purple heart strip. The bulb collected in this sample has 19 stems shooting off it. The leaves and flowers appear to be pressed downwards, similar to how the plant would occur at night, as the oxalis responds to the onset of darkness with a circadian rhythmic nastic movement.
