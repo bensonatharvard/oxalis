@@ -17,6 +17,8 @@
 
 Oxalis tetraphylla is a bulbous perennial wood sorrel native to Mexico. It is recognized by its four green heart-shaped leaves containing a purple heart. The purple variations can appear as either band, a filled center, or even reversed from the outside inwards. The oxalis is often mistaken for a clover, which has a distinct rounded leaf instead of heart-shaped. Between late spring and summer, the oxalis will bloom a pinkish reddish flower, known as an ionoxalis scopulorum rose. 
 The leaves are drawn in both open and closed as nyctinasty occurs in oxalis wood sorrels. During nighttime or low lighting, the leaves turn downwards. By turning the leaves downwards, the plant can retain temperature and remove surface water from the foliage. It also directly discourages nighttime herbivory. The circadian rhythmic nastic movement also prevents disruption of photoperiodism by moonlight. Along with the leaves, the flowers also share this same movement. Oxalis also uses nyctinasty to overcome photoinhibition, a decrease in efficiency of photosynthesis when exposed to an overabundance of light.
+<param eid="Q66117">
+<param ve-map center="18.7475, -99.070278" zoom="12" show-labels>
 
 
 This sheet was collected by Cyrus Guernsey Pringle, born in East Charlotte, Vermont. He was a quaker and an adamant pacifist. So much so that even facing the threat of death, he refused to perform military duty in the Civil War. He was personally pardoned by President Lincoln and went on to start his own herbarium Pringle Herbarium. He crossbred three famous types of potatoes the “ruby,” the “snowflake,” and the “alpha.” In 1885, he set out on his botanical conquest of Mexico, where he spent the next 26 years collecting over 100 new varieties, 29 new genera,  and 1,200 new species, including this Oxalis tetraphylla Cav.
@@ -54,11 +56,6 @@ The third frontier for the oxalis is against the industry. The soil is often poi
 
 
 
-
-
-Exceptionally rewarding, Oxalis tetraphylla "iron Cross" is a bulbous perennial forming a lush mound of rich green leaves composed of 4 heart-shaped leaflets, each with a dark purplish blotch at its base. 
-<param eid="Q66117">
-<param ve-map center="18.7475, -99.070278" zoom="12" show-labels>
 
 Harvard Herbarium Sheet for oxalis based on Morelos, Mexico. Herbarium sheet by C.G. Pringle.
 <param ve-image url="https://s3.amazonaws.com/huhwebimages/945132826A4A4C4/type/full/43707.jpg">
